@@ -10,7 +10,8 @@ show_sidebar: true
 show_breadcrumbs: true
 show_pagination: true
 content:
-    items: '@self.children'
+    items:
+        - '@self.children'
     limit: 6
     order:
         by: date
@@ -21,10 +22,10 @@ bricklayer_layout: true
 display_post_summary:
     enabled: false
 feed:
-    description: 'Sample Blog Description'
     limit: 10
+    description: 'Sample Blog Description'
 pagination: true
 ---
 
-# My **Open Publishing** Space
+# Opening My-I's **For Knowledge** Space
 ## Create, Share and Collaborate
