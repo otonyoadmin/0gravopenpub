@@ -34,7 +34,7 @@ pagination: true
 ---
 
 # Desire Dynamics
-#### identitfy & remove resistance to new knowledge
-## Adapt Naturally with Authenticated Self Knowledge
-### Antifragile **Self Conception** Open Your I's
+#### identitfy & remove resistances to new knowledge
+## Adapt eazier with Self Authenticated Knowledge
+### Open Your I's Antifragile **Self Conception**
 
