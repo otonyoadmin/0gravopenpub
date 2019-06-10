@@ -34,4 +34,4 @@ pagination: true
 ---
 
 # Infinitely Open, Antifragile **Self Conception**
-## Knowledge, effortlessly adapted
+##emergent knowledge, effortlessly adapted
