@@ -1,5 +1,6 @@
 ---
 title: 'Standard Page 2'
+published: false
 hide_git_sync_repo_link: false
 ---
 
