@@ -33,5 +33,6 @@ display_post_summary:
 pagination: true
 ---
 
-# Infinitely Open, Antifragile **Self Conception**
-#### emergent knowledge, effortlessly adapted
+# Desire Dynamics
+### Infinitely Open, Antifragile **Self Conception**
+#### constatntly emergingt knowledge, effortlessly adapted
