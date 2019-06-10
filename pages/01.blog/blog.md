@@ -33,5 +33,5 @@ display_post_summary:
 pagination: true
 ---
 
-# Begin in the solution **Antifragile Self Conception ** Make Your Own Space
-## Attitude, Acuity, Adaptability
+# Mental Solutions **Antifragile Self Conception ** Integrate Emergent Knowledge
+## Continuous, Effortless, Adaptability
