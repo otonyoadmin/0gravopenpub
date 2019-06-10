@@ -33,5 +33,5 @@ display_post_summary:
 pagination: true
 ---
 
-# Self Conception **Faster New Knowledge Integration** Space
+# Empty Door Self Conception **Faster New Knowledge Integration** Create Your Own Space
 ## Attitude, Acuity, Adaptability
