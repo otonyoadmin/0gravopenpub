@@ -34,5 +34,5 @@ pagination: true
 ---
 
 # Desire Dynamics
-### Infinitely Open, Antifragile **Self Conception**
-#### constatntly emergingt knowledge, effortlessly adapted
+### Antifragile **Self Conception** Open Your I's
+#### remove resistance to new knowledge
