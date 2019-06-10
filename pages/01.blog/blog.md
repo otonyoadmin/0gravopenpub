@@ -33,7 +33,8 @@ display_post_summary:
 pagination: true
 ---
 
-# Desire Dynamics 
-## New Knowledge Work
-### Antifragile **Self Conception** Open Your I's
+# Desire Dynamics
 #### remove resistance to new knowledge
+## Adapt Naturally with Knowledge
+### Antifragile **Self Conception** Open Your I's
+
