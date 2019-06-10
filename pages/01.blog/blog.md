@@ -33,5 +33,5 @@ display_post_summary:
 pagination: true
 ---
 
-# Opening My-I's **For Knowledge** Space
-## Create, Share and Collaborate
+# Self Conception **Faster New Knowledge Integration** Space
+## Attitude, Acuity, Adaptability
