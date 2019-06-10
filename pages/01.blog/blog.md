@@ -33,5 +33,5 @@ display_post_summary:
 pagination: true
 ---
 
-# Mental Solutions **Antifragile Self Conception ** Integrate Emergent Knowledge
-## Continuous, Effortless, Adaptability
+# Antifragile **Self Conception ** Infinetely Open
+## Knowledge, effortlessy adaptable
