@@ -33,5 +33,5 @@ display_post_summary:
 pagination: true
 ---
 
-# Antifragile **Self Conception ** Infinitely Open
+# Infinitely Open Antifragile **Self Conception **
 ## Knowledge, effortlessly adapted
