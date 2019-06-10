@@ -36,5 +36,5 @@ pagination: true
 # Desire Dynamics
 #### identitfy & remove resistances to new knowledge
 ## AntiFragile Self Conception
-### Own Your Self,**Open Your I's**
+### Own Your Self, **Open Your I's**
 
