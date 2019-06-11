@@ -34,7 +34,7 @@ pagination: true
 ---
 
 # Desire Dynamics
-## Self Sifting Human Knowledge Processing
+## 50% Faster Human Knowledge Processing
 ## Infinitely Open Mind Knowledge For Positive Participation
 ## Anti-Fragile Self Conception
 ## Then & Only Then, Start Opening Your I's
