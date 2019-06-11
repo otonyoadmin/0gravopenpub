@@ -25,7 +25,7 @@ content:
     url_taxonomy_filters: true
 feed:
     limit: 10
-    description: 'Sample Blog Description'
+    description: 'Desire Dynamics'
 hide_git_sync_repo_link: false
 bricklayer_layout: true
 display_post_summary:
