@@ -35,8 +35,8 @@ pagination: true
 
 if we really didn't take it personally we could be our Self!
 # Desire Dynamics
-## Transforming Knowledge Work
-## Open You I's
+## Transforming Knowledge For Positive Participation
+## Start Opening Your I's
 ## With Anti-Fragile Self Conception
 ### Own Your Self
 
