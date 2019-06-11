@@ -37,5 +37,5 @@ pagination: true
 ## Positive Participation Fueled By Emergent Knowledge 
 ## Now Ready! Anti-Fragile Self Conception
 ## Learn how to open your I's from the empty side
-## Then & Only Then, Start Opening Your I's
+## Then & Now, Now!
 
