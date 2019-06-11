@@ -34,7 +34,8 @@ pagination: true
 ---
 
 # Desire Dynamics
-## Knowledge For Positive Participation
-## Keep yourself safe, Anti-Fragile Self Conception
+## Self Sifting Human Knowledge Processing
+## Infinitely Open Mind Knowledge For Positive Participation
+## Anti-Fragile Self Conception
 ## Then & Only Then, Start Opening Your I's
 
