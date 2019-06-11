@@ -34,7 +34,7 @@ pagination: true
 ---
 
 # Desire Dynamics
-## Transforming Self Knowledge
+## Transforming Knowledge Work
 ## AntiFragile Self Conception
 ### Own Your Self, **Open Your I's**
 
