@@ -34,7 +34,7 @@ pagination: true
 ---
 
 # Desire Dynamics
-## Self Knowledge For Positive Participation
+## Knowledge For Positive Participation
 ## Make Your Self Safe 1st, with Anti-Fragile Self Conception
 ## Then & Only Then, Start Opening Your I's
 
