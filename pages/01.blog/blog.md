@@ -34,8 +34,7 @@ pagination: true
 ---
 
 # Desire Dynamics
-## Positive Participation Fueled By Emergent Knowledge 
-## Now Ready! Anti-Fragile Self Conception
-## Learn how to open your I's from the empty side
-## Then & Now, Now!
-
+## Now Ready! Positive Participation
+## effortlessly process constantly emerging knowledge 
+## Unwounded Anti-Fragile Self Conception
+## Infinte amounts of variable open I's
