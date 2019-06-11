@@ -33,6 +33,7 @@ display_post_summary:
 pagination: true
 ---
 
+if we really didn't take it personally we could be our Self!
 # Desire Dynamics
 ## Transforming Knowledge Work
 ## Open You I's
