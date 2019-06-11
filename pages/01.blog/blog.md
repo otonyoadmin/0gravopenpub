@@ -33,10 +33,8 @@ display_post_summary:
 pagination: true
 ---
 
-if we really didn't take it personally we could be our Self!
 # Desire Dynamics
-## Transforming Knowledge For Positive Participation
-## Start Opening Your I's
-## With Anti-Fragile Self Conception
-### Own Your Self
+## Self Knowledge For Positive Participation
+## Make Your Self Safe 1st, with Anti-Fragile Self Conception
+## Then & Only Then, Start Opening Your I's
 
