@@ -34,7 +34,7 @@ pagination: true
 ---
 
 # Desire Dynamics
-## _Now Ready Positive Participation
+## Now Ready Positive Participation
 ## effortlessly process constantly emerging knowledge 
 ## Unwounded Anti-Fragile Self Conception
 ## Infinte amounts of variable open I's
