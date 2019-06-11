@@ -34,7 +34,7 @@ pagination: true
 ---
 
 # Desire Dynamics
-## Effortless, Emergent Knowledge, Processing
+## Effortless, Emergent Knowledge, Processing for Positive Participation
 ## Anti-Fragile Self Conception
 ## Mind Knowledge For Positive Participation
 ## Then & Only Then, Start Opening Your I's
