@@ -37,5 +37,5 @@ pagination: true
 ## Transforming Knowledge Work
 ## Open You I's
 ## With Anti-Fragile Self Conception
-### Own Your Self, **Open Your I's**
+### Own Your Self
 
