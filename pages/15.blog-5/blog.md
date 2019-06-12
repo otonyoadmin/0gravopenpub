@@ -1,5 +1,5 @@
 ---
-title: 'Blog 2'
+title: 'Blog 2cpy'
 publish_date: '10-06-2019 08:13'
 taxonomy:
     category:
