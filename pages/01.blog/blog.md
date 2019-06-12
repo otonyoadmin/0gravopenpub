@@ -34,6 +34,6 @@ pagination: true
 ---
 
 # Desire Dynamics
+## Change The Self Conception, Change The Game.
 #### processing emergent human knowledge faster
 ### Create Mindspace <br>ease, enable & engage,
-## Change The Self Conception, Change The Game.
