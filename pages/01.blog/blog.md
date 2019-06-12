@@ -34,6 +34,6 @@ pagination: true
 ---
 
 # Desire Dynamics
-## Change Your Self Conception, Own The Game.
+## Own The Game, Own Your Self Conception, .
 #### processing emergent human knowledge faster
 ### Create Mindspace For Knowledge Work<br>ease, enable & engage,
