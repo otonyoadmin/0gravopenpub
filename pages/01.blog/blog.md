@@ -34,7 +34,6 @@ pagination: true
 ---
 
 # Desire Dynamics
-## Effortless Mindspace
-## Doubtless Self Conception 
-## Infinite unique I's
-## For bright humans, value is knowledge driven
+## Effortlessly Create Mindspace <br>enable emergent human knowledge 
+## Make Time With Your Self <br>
+## 
