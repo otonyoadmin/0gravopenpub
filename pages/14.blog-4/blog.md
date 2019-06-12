@@ -1,5 +1,6 @@
 ---
 title: 'Blog 2'
+published: false
 publish_date: '10-06-2019 08:13'
 taxonomy:
     category:
