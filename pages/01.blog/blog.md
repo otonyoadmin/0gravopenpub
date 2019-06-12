@@ -34,7 +34,7 @@ pagination: true
 ---
 
 # Desire Dynamics
-## Knowledge synthesis<br> Now Ready Positive Participation
-## effortlessly process constantly emerging knowledge 
-## Unwounded Anti-Fragile Self Conception
-## Infinte amounts of variable open I's
+## Effortless Mindspace
+## Doubtless Self Conception 
+## Infinite unique I's
+## For bright humans, value is knowledge driven
