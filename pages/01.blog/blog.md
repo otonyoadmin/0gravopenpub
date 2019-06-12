@@ -34,6 +34,6 @@ pagination: true
 ---
 
 # Desire Dynamics
-## Effortlessly Create Mindspace <br>enable emergent human knowledge 
+## Create Mindspace <br>ease, enable & engage,<br>with emergent human knowledge 
 ## Make Time With Your Self <br>
 ## 
