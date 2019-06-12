@@ -6,6 +6,7 @@ taxonomy:
         - blog
     tag:
         - 'Desire Dynamics'
+hide_git_sync_repo_link: false
 sitemap:
     changefreq: monthly
 body_classes: 'header-dark header-transparent'
@@ -23,13 +24,12 @@ content:
         dir: desc
     pagination: true
     url_taxonomy_filters: true
-feed:
-    limit: 10
-    description: 'Desire Dynamics'
-hide_git_sync_repo_link: false
 bricklayer_layout: true
 display_post_summary:
     enabled: false
+feed:
+    limit: 10
+    description: 'Desire Dynamics'
 pagination: true
 ---
 
