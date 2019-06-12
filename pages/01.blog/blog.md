@@ -33,7 +33,8 @@ display_post_summary:
 pagination: true
 ---
 
-# Desire Dynamics<br>with emergent human knowledge 
+# Desire Dynamics
+#### processing emergent human knowledge 
 ## Create Mindspace <br>ease, enable & engage,
 ## Make Time With Your Self <br>
 ## 
