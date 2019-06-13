@@ -1,5 +1,5 @@
 ---
-title: 'Now is the opbvious clue'
+title: 'Now is the opvious clue'
 date: '13:34 07/05/2014'
 taxonomy:
     category:
