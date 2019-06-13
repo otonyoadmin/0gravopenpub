@@ -1,5 +1,5 @@
 ---
-title: 'Now is the opvious clue'
+title: 'Now is the obvious clue'
 taxonomy:
     category:
         - blog
