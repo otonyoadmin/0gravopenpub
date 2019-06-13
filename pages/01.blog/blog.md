@@ -34,4 +34,4 @@ pagination: true
 ---
 
 # Desire Dynamics
-## Own Your Self Conception
+## Own Your Self Conception <br>Watch your come & go I's <br>remove ignorance 
