@@ -34,5 +34,5 @@ pagination: true
 ---
 
 # Desire Dynamics
-## Own Your Self Conception <br>Watch your come & go I's <br>remove ignorance
-## Know why now, is so important
+## From Emptiness To Now! <br>In an I.
+## Understand Faster, Own Your Self Conception
