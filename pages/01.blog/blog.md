@@ -34,5 +34,4 @@ pagination: true
 ---
 
 # Desire Dynamics
-## From Emptiness To Now! <br>In an I.
-## Understand Faster, Own Your Self Conception
+## From Emptiness To Now, <br>In an I. <br>Understand Faster
